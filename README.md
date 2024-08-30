@@ -1,1 +1,1 @@
-[这里查看PDF文件](Improvements Report.pdf)
+<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="Improvements Report.pdf" alt=""></a>
